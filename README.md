@@ -1,6 +1,7 @@
-# demo
+# Random name Generator Projects
 
 A new Flutter project.
+Based on Google CodeLabs Project
 
 ## Getting Started
 
